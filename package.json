@@ -125,7 +125,7 @@
     "invariant": "^2.2.1",
     "keycode": "^2.1.2",
     "prop-types": "^15.5.6",
-    "react-overlays": "^0.6.12",
+    "react-overlays": "github:react-bootstrap/react-overlays#d5225d806f7d9582a8686070696a1b713e0b5af",
     "react-prop-types": "^0.4.0",
     "uncontrollable": "^4.0.1",
     "warning": "^3.0.0"
